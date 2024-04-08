@@ -13,6 +13,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FiltroJDBC_Nico_Luna.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Controller/ClienteController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Controller/CompraController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Controller/ProductoController.java" afterDir="false" />
@@ -91,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712575847581</updated>
       <workItem from="1712575848751" duration="21000" />
-      <workItem from="1712575937687" duration="19700000" />
+      <workItem from="1712575937687" duration="20033000" />
     </task>
     <servers />
   </component>
