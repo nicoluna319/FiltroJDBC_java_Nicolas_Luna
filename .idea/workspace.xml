@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="346190f1-41a7-4387-a37d-1df1f38c445e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_3_0__1_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiltroJDBC_Nico_Luna.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/ClienteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/CompraController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/ProductoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/TiendaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Database/CRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Database/ConfigDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/ClienteEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/CompraEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/ProductoEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/TiendaEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/ClienteModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/CompraModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/ProductoModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/TiendaModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/utils.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2eofRosh3xKsBmbzpH61DcOOqas" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/padre/Documents/PROGRAMACION/Java/mysql-connector-j-8.3.0 (1).jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/padre/Documents/PROGRAMACION/Java/FiltroJDBC_Nico_Luna/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="346190f1-41a7-4387-a37d-1df1f38c445e" name="Changes" comment="" />
+      <created>1712575847581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712575847581</updated>
+      <workItem from="1712575848751" duration="21000" />
+      <workItem from="1712575937687" duration="19700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
